@@ -5,4 +5,5 @@ Requirements:
 Windows OS and python+pygame installed.
 
 How to execute:
+Unzip the contents
 Open the executable file
